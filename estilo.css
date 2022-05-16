@@ -1,0 +1,29 @@
+.gif {
+    text-align: center;
+    padding: 15px;
+}
+
+.gif img {
+    width: 1200px;
+    height: 450px;
+}
+
+.filmes img {
+    display: inline-block;
+    width: 350px;
+    height: 700px;
+    object-fit: cover;
+    padding: 15px;
+}
+
+.filmes {
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.btn{
+    padding-left: 1650px;
+}
